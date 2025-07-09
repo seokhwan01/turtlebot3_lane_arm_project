@@ -24,7 +24,7 @@
 ### 2. ArUco 마커 인식 및 좌표 변환
 - 마커 중심좌표, Z-depth 계산
 - camera_link → base_link 로 TF 변환
-- TF-tree 확인 및 link 수정으로 정확도 향상
+- TF-tree 확인 및 link 수정으로 문제 해결
 
 ### 3. MoveIt 기반 Pick-and-Place
 - ArUco 마커로부터 획득한 좌표를 사용해 매니퓰레이터 이동
